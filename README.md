@@ -3,10 +3,11 @@
 
 #### About me :coffee:	:computer:	:keyboard:	:ledger:	
 
-- Software developement Engineer 
+- Product Manager who was once a Software developement Engineer 
+- I love solving problems and analysing market trends.
 - I speak fluent C++, Java, Python.
-- All about learning and building cool stuff.
-- Fun fact: You can always find me sitting in a corner, sipping my hot tea and fighting with my fellow errors.
+- All about learning and building cool and impactful stuff.
+- Fun fact: You can always find me sitting in a corner, sipping my hot tea and brainstroming a impactful solution for a problem.
 
 
 ##### Connect on [Linkedin](https://www.linkedin.com/in/shaini-soni-9a9126157/) or [drop a mail](shainisoni1696@gmail.com)
