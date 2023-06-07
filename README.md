@@ -3,7 +3,6 @@
 
 #### About me :coffee:	:computer:	:keyboard:	:ledger:	
 
-- Product Manager who was once a Software developement Engineer 
 - I love solving problems and analysing market trends.
 - I speak fluent C++, Java, Python.
 - All about learning and building cool and impactful stuff.
