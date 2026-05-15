@@ -3,10 +3,10 @@
 
 #### About me :coffee:	:computer:	:keyboard:	:ledger:	
 
-- I love solving problems and analysing market trends.
-- I speak fluent C++, Java, Python.
-- All about learning and building cool and impactful stuff.
-- Fun fact: You can always find me sitting in a corner, sipping my hot tea and brainstroming a impactful solution for a problem.
+- Hi, I’m Shaini 👋
+Curious problem-solver turned TPM with 5+ years across engineering, product, and program execution. Started out building cloud infrastructure at Nokia R&D powering 8B+ subscribers globally, and now focused on product strategy, automation, and scalable systems in B2B SaaS. I enjoy turning messy, complex problems into simple, scalable solutions that make life easier.
+
+- Fun fact: You can always find me sitting in a corner, sipping my hot milk tea and brainstroming an impactful solution for a complex problem.
 
 
 ##### Connect on [Linkedin](https://www.linkedin.com/in/shaini-soni-9a9126157/) or [drop a mail](shainisoni1696@gmail.com)
